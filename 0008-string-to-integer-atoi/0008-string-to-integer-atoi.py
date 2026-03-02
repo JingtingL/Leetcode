@@ -13,8 +13,6 @@ class Solution(object):
             if (string_int == "" and sign!= True):
                 if s[index].isspace():
                     continue
-                elif sign == True:
-                    return 0
                 elif s[index] == "-":
                     sign = True
                     string_int = "-"
