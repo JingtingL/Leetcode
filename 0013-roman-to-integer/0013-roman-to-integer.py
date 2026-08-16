@@ -15,5 +15,5 @@ class Solution:
             else:
                 num += kv[curr_letter]
 
-        num += kv[s[last]]        
-        return num
+        #num += kv[s[last]]    # you cannot assign an assignment and return at the same time    
+        return num + kv[s[last]]
