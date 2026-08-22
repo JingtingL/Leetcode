@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JingtingL/Leetcode/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JingtingL/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
