@@ -1,19 +1,18 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+class Solution:
+    def isValid(self, s: str) -> bool:
+        
+        brackets = {"(":")", "{":"}", "[":"]"}
         stack = []
-        closeToOpen = {"}":"{", ")":"(", "]":"["}
 
-        for c in s:
-            if c in closeToOpen:
-                if stack and stack[-1] == closeToOpen[c]:
-                    stack.pop()
-                else:
-                    return False
+        for element in s:
+            if element in brackets:
+                stack.append(element)
             else:
-                stack.append(c)
+                if len(stack) == 0:
+                    return False
+                elif brackets[stack.pop()] != element:
+                    return False
 
-        return True if not stack else False
+        if len(stack) != 0:
+            return False
+        return True 
