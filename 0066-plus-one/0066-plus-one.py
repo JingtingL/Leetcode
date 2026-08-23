@@ -9,4 +9,4 @@ class Solution:
 
         if digits[0] == 0:
             digits = [1] + digits
-        return digits       
+        return digits
