@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JingtingL/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JingtingL/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JingtingL/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/JingtingL/Leetcode/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/JingtingL/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/JingtingL/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JingtingL/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/JingtingL/Leetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JingtingL/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/JingtingL/Leetcode/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
