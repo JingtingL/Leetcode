@@ -2,13 +2,14 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
 
         cleaned = ""
-        for char in s:
-            if char.isalnum():
-                cleaned += char.lower()
+
+        for c in s:
+            if c.isalnum():
+                cleaned += c.lower()
         
-        for i in range(len(cleaned)//2):
-            if cleaned[i] != cleaned[-i-1]:
+        # we don't care about the very middle if it is odd, bc either way it would be an palindrome
+        for index in range(len(cleaned)//2): 
+            if cleaned[index] != cleaned[-index - 1]:
                 return False
         
         return True
-        
