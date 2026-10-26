@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/JingtingL/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JingtingL/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/JingtingL/Leetcode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/JingtingL/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/JingtingL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JingtingL/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/JingtingL/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JingtingL/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/JingtingL/Leetcode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/JingtingL/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JingtingL/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/JingtingL/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/JingtingL/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
