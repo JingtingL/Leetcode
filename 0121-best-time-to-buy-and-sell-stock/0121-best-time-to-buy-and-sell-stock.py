@@ -1,15 +1,15 @@
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-        # we know the buy date always have to be on the left of the sell date
-        min_price = float('inf')
-        max_profit = 0
+    def maxProfit(self, prices: list[int]) -> int:
+        # determine the best profit I can make
+        result = 0
+        buy_price = float('inf')
+        
+        for curr in range(0,len(prices)):
+            result = max(prices[curr] - buy_price, result)
 
-        for price in prices:
-            if price < min_price:
-                min_price = price
-            
-            if max_profit < price - min_price:
-                max_profit = price - min_price
-            #max_profit = max(max_profit, price - min_price)
-            
-        return max_profit
+            if prices[curr] < buy_price:
+                buy_price = prices[curr]
+        
+        return result
+
+        
