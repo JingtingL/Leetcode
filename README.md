@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JingtingL/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JingtingL/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/JingtingL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/JingtingL/Leetcode/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JingtingL/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JingtingL/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/JingtingL/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/JingtingL/Leetcode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/JingtingL/Leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/JingtingL/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
