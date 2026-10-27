@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JingtingL/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/JingtingL/Leetcode/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JingtingL/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JingtingL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JingtingL/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/JingtingL/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
